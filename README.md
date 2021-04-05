@@ -31,7 +31,8 @@ NOTE 2: after you type each command, make sure you READ what your command line s
 ## Task 1: Automatic merging _(no errors)_
 
 1. **Owner**: add text to line 1 (after 1).  
-_ex:_ `1 Alice was here!`  
+_ex:_ `1 Alice was here!` 
+       1 very good
 2. **Collaborator**: add text to line 3 (NOT line 2).  
 _ex:_ `3 Bob was here!`  
 ### IMPORTANT SIDENOTE: There must be one extra line BETWEEN the edits.  Otherwise, you will get a merge conflict.  
